@@ -36,6 +36,11 @@
 [第21章 Ajax与Comet](https://github.com/llwcy8801/blog/issues/28)
 [第23章 离线应用与客户端存储](https://github.com/llwcy8801/blog/issues/29)
 
+### JavaScript 设计模式
+[第8章 设计模式分类](https://github.com/llwcy8801/blog/issues/30)
+[第9章 JavaScript设计模式](https://github.com/llwcy8801/blog/issues/31)
+[第10章 JavaScript MV* 模式](https://github.com/llwcy8801/blog/issues/32)
+
 
 ## webapck
 [tapable简介](https://github.com/JarRySW/blog/issues/8)
